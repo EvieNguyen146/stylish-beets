@@ -41,3 +41,13 @@ a:hover {
   color: #222;
   text-decoration: none;
 }
+
+.diamond {
+  font-weight: bold;
+  text-align: left;
+}
+
+.ruby ol {
+  list-style-type: lower-alpha;
+  font-weight: normal;
+}
