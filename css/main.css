@@ -51,7 +51,3 @@ a:hover {
   list-style-type: lower-alpha;
   font-weight: normal;
 }
-
-nav:last-of-type {
-  font-size: 0.8rem;
-}
