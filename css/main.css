@@ -1,7 +1,7 @@
 html {
   background-color: #c9b5ab;
   line-height: 1.5;
-  font-family: "PT Serif", serif;
+  font-family: "PT Serif", sans-serif;
 }
 
 img {
@@ -20,8 +20,8 @@ ol > li > a {
 }
 
 figcaption {
-  text-align: center;
-  font-weight: lighter;
+  font-style: italic;
+  font-family: "PT Serif", serif;
 }
 
 p:first-child {
@@ -51,4 +51,9 @@ a:hover {
 .ruby ol {
   list-style-type: lower-alpha;
   font-weight: normal;
+}
+
+blockquote {
+  font-size: 1.5rem;
+  font-style: italic;
 }
